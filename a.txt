@@ -1,3 +1,1 @@
 Hello git
-add git ก่อนเสมอ
-แก้ไขไฟล์ A
